@@ -431,6 +431,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [xxhash-ada](https://github.com/lyarbean/xxhash-ada) - Extremely fast non-cryptographic Hash algorithm, xxhash is working at speeds close to RAM limits.
 - [libsodium-ada](https://github.com/jrmarino/libsodium-ada) - A secure cryptographic library (libsodium for Ada).
 - [ada-libsecret](https://github.com/stcarrez/ada-libsecret) - Ada Binding for the libsecret library.
+- [az3](https://github.com/Componolit/AZ3) - Ada binding for Z3
 
 #### Compression
 - [zip-ada](https://github.com/zertovitch/zip-ada) - Zip-Ada is a programming library for dealing with the Zip compressed archive file format.
